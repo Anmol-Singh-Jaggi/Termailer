@@ -1,11 +1,9 @@
 Termailer
 =========
 
-**Description**  
+**Description**
 A Python script to send email from terminal directly.  
-
-Email-providers supported:
-
+Email-providers supported:  
 - Gmail
 - Yahoo
 - Outlook
@@ -15,10 +13,9 @@ Email-providers supported:
 - Zoho
 - iCloud
 
-**Pre-requisites**  
-You may need to install TKinter -
-http://tkinter.unpythonic.net/wiki/How_to_install_Tkinter
-
+**Dependencies**
+ - Python2  
+ - Tkinter
 
 **FAQ**
  - *Why am I getting a 534 error code with Gmail?*  
