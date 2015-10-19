@@ -15,6 +15,11 @@ Email-providers supported:
 - Zoho
 - iCloud
 
+**Pre-requisites**  
+You may need to install TKinter -
+http://tkinter.unpythonic.net/wiki/How_to_install_Tkinter
+
+
 **FAQ**
  - *Why am I getting a 534 error code with Gmail?*  
  This is so because Gmail prevents authorization by so called "less secure apps" by default.  
