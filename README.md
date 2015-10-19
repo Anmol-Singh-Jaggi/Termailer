@@ -16,6 +16,14 @@ Currently available for:
 
 
 
+**Pre-requisites**
+Install TKinter for python-
+
+http://tkinter.unpythonic.net/wiki/How_to_install_Tkinter
+
+
+
+
 In the further versions you can expect memoisation of :
 * user accounts
 * recipents
